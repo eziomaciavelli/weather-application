@@ -1,1 +1,1 @@
-# мини приложение "Погода" на Java
+# Weather Application in Java
